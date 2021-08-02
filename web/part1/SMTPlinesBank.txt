@@ -1,0 +1,15 @@
+HELO magshimail.com
+MAIL from: mail@magshimail.com
+RCPT to: eitan.turpaz@gmail.com
+
+From: mail@magshimail.com
+To: eitan.turpaz@gmail.com
+Date: Wed, 20 Aug 2020 16:02:43 -0500
+Subject: Test message
+MIME-Version: 1.0
+
+yo
+.
+
+AUTH PLAIN
+AGdhbmRhbGYAeW91X3NoYWxsX25vdF9wYXNz

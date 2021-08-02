@@ -1,0 +1,15 @@
+HELO magshimail.com
+AUTH LOGIN
+R2FuZGFsZg==
+eW91X3NoYWxsX25vdF9wYXNz
+MAIL from: mail@magshimail.com
+RCPT to: eitan.turpaz@gmail.com
+DATA
+From: "Eitan Tur-paz" <mail@magshimail.com>
+To: eitan.turpaz@gmail.com
+Subject: random subject
+MIME-Version: 1.0
+X-Signature: no
+
+very thoughtfull message! undoubtly
+.

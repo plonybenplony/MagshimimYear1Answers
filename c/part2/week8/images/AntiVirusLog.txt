@@ -1,0 +1,17 @@
+Anti-virus began! Welcome!
+
+Folder to scan:
+C:/Users/user/Documents/magshimim/c/part2/week8/images
+Virus signature:
+C:/Users/user/Documents/magshimim/c/part2/week8/KittenVirusSign
+
+Scanning option:
+Normal Scan
+
+Results:
+C:/Users/user/Documents/magshimim/c/part2/week8/images/aabaa.txt  Clean
+C:/Users/user/Documents/magshimim/c/part2/week8/images/AntiVirusLog.txt  Clean
+C:/Users/user/Documents/magshimim/c/part2/week8/images/completly_other_file.txt  Infected!
+C:/Users/user/Documents/magshimim/c/part2/week8/images/KittenVirusSign  Infected!
+C:/Users/user/Documents/magshimim/c/part2/week8/images/kitten_frog.jpg  Infected!
+C:/Users/user/Documents/magshimim/c/part2/week8/images/kitten_run.jpg  Clean

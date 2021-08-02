@@ -1,0 +1,22 @@
+220 magshimail.com         "Oh, it's quite simple. If you are a friend, you speak the password, and the doors will open."
+HELO magshimail.com
+250 magshimail.com
+AUTH PLAIN
+334
+AGdhbmRhbGYAeW91X3NoYWxsX25vdF9wYXNz
+235 2.7.0 Authentication successful
+MAIL from: mail@magshimail.com
+250 2.1.0 Ok
+RCPT to: eitan.turpaz@gmail.com
+250 2.1.5 Ok
+DATA
+354 End data with <CR><LF>.<CR><LF>
+From: mail@magshimail.com
+To: eitan.turpaz@gmail.com
+Subject: Test message
+MIME-Version: 1.0
+
+hi me how are you?
+.
+250 2.0.0 Ok: queued as BA056489C8
+421 4.4.2 magshimail.com Error: timeout exceeded

@@ -1,0 +1,14 @@
+HELO magshimail.com
+AUTH PLAIN
+AGdhbmRhbGYAeW91X3NoYWxsX25vdF9wYXNz
+MAIL from: mail@magshimail.com
+RCPT to: eitan.turpaz@gmail.com
+DATA
+From: "Eitan Tur-paz" <mail@magshimail.com>
+To: eitan.turpaz@gmail.com
+Subject: Other Test message that is'nt related to the other one again but now like really
+MIME-Version: 1.0
+X-Signature: no
+
+very thoughtfull message! undoubtly
+.
